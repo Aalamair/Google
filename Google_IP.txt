@@ -1,8 +1,7 @@
-# Ad filter list Youtube
+# Ad filter list Google
 # License: GPLv3
-# Contact: support [at] Youtube
+# Contact: support [at] Google
 
-youtube.com
-www.youtube.com
-googlevideo.com
-i.ytimg.com
+142.250.195.132
+142.250.196.68
+142.250.182.35
